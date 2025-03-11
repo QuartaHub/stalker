@@ -1,0 +1,1 @@
+<img alt="Пневматика Сталкер" class="lazy" data-src="<?=SITE_TEMPLATE_PATH?>/img/aboutbg.webp" title="Пневматика Сталкер">

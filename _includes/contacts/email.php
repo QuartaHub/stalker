@@ -1,0 +1,1 @@
+<a href="mailto:shop@quarta-hunt.ru">shop@stalker.ru</a>

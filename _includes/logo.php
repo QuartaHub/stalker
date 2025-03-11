@@ -1,0 +1,1 @@
+<img alt="Пневматика Сталкер" src="<?=SITE_TEMPLATE_PATH?>/img/logo_light.png" title="Пневматика Сталкер">

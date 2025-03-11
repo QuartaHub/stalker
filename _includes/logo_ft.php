@@ -1,0 +1,1 @@
+<img alt="logo-white.png" src="<?=SITE_TEMPLATE_PATH?>/img/logo-white.png" height="27" width="214" title="logo-white.png">
