@@ -81,7 +81,7 @@ $APPLICATION->SetTitle( "Доставка" );
 		 Юр. Адрес
 	</td>
 	<td>
-		 197046, г Санкт-Петербург, ул. наб. Петроградская, д.18, литер А, помещ. 6-н
+		197046, г. Санкт-Петербург, вн.тер.г. Муниципальный Округ Посадский, наб. Петроградская, д. 18, Литера А, помещ. 6-н, пом./комната 106/7
 	</td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ $APPLICATION->SetTitle( "Доставка" );
 		 Почтовый адрес&nbsp; &nbsp; &nbsp;
 	</td>
 	<td>
-		 197046, г Санкт-Петербург, ул. наб. Петроградская, д.18, литер А, помещ. 6-н<br>
+		197046, г. Санкт-Петербург, вн.тер.г. Муниципальный Округ Посадский, наб. Петроградская, д. 18, Литера А, помещ. 6-н, пом./комната 106/7<br>
 	</td>
 </tr>
 <tr style="color: var(--bs-table-striped-color);">
@@ -98,25 +98,7 @@ $APPLICATION->SetTitle( "Доставка" );
 	</td>
 	<td>
 		<p>
- <a href="mailto:k.kostromina@quarta-hunt.ru">k.kostromina@quarta-hunt.ru</a>
-		</p>
-	</td>
-</tr>
-<tr>
-	<td>
-		 Телефон
-	</td>
-	<td>
- <a href="tel:8&nbsp;(900)&nbsp;199-13-66">8&nbsp;(900)&nbsp;199-13-66</a>
-	</td>
-</tr>
-<tr style="color: var(--bs-table-striped-color);">
-	<td>
-		 Ген. Директор
-	</td>
-	<td>
-		<p>
-			 Костромина Ксения Владимировна
+ <a href="mailto:k.kostromina@stalker.ru">k.kostromina@stalker.ru</a>
 		</p>
 	</td>
 </tr>
